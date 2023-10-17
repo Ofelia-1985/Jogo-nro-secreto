@@ -47,6 +47,10 @@ O programa fornece feedback ao jogador, informando se o palpite está alto, baix
 No momento que o projeto foi criado, a API utilizada (Web Speech API) apresentava uma limitação ao reconhecer algumos números,
 eles eram reconhecidos strings (textos). Esperamos que logo a API seja evoluída para conseguir os objetivos do projeto completamente.
 
+## 🔗 Acceso
+
+https://jogo-nro-secreto.vercel.app
+
 ## 🗝️ Licença
 
 Esse projeto está sob a licença MIT.
